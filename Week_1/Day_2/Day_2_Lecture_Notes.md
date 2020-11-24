@@ -26,3 +26,6 @@
 - git remote add origin [URL]
 - git push origin master (can be different if using main instead of master "git push -u origin main" and then just "git push" after that)
 - git dif <---- will tell you the changes you made
+- git add . <---- add everyting in this folder (so don't have to add each file seperately)
+- git chechout [file name] <--- revert back to previous commit
+
